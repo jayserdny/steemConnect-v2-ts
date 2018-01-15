@@ -1,0 +1,8 @@
+{
+    "compilerOptions": {
+        "target": "es6",
+        "module": "commonjs",
+        "sourceMap": true,
+        "typeRoots" : ["./types/sc2-sdk"]
+    }
+}
