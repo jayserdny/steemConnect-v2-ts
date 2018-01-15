@@ -2,6 +2,8 @@
 
 Definitions for the [SteemConnect V2 SDK](https://github.com/steemit/sc2-sdk)
 
+![](https://steemitimages.com/0x0/https://res.cloudinary.com/hpiynhbhq/image/upload/v1515998917/xvzeueynrkjzzucrylou.png)
+
 ## Testing
 
 1) npm install
