@@ -76,6 +76,12 @@ declare class SC2 {
     revokeToken(callback?:(err: any, res: any) => void): void;
 
     /**
+     * Set oauth2 access token if the user already have it.
+     * @param {String} accessToken: Access token of the url attempting to log in
+     */
+    setAccessToken(accessToken: string): void;
+
+    /**
      * Reblog (share) a post by any user.
      * @param {String} account: Account of the logged user
      * @param {String} author: Author of the post to reblog
