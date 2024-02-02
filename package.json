@@ -9,6 +9,6 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "sc2-sdk": "^1.0.2"
+    "sc2-sdk": "^2.0.1"
   }
 }
